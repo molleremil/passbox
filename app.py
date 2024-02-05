@@ -1,4 +1,3 @@
-# Password Generator Project
 from password_gen import PasswordGenerator
 from tkinter import *
 from tkinter import messagebox
@@ -22,9 +21,8 @@ try:
 except FileNotFoundError:
     pass
 
+
 # Generate and update password
-
-
 def update_password():
     password_generator = PasswordGenerator()
     password = password_generator.generate_password()
