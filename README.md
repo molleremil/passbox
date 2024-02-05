@@ -15,10 +15,10 @@ In the main main.py, change the constant variable to your main/preferred email a
 **Functionalities:**
 
   1. Generate strong and secure passwords (in connection to desired website) and save locally to a json file.
-  2. Search through your database, to retrieve passwords for sites quickly
+  2. Search through your database, to retrieve passwords for your desired sites effortlessly:
      <img width="598" alt="passbox_demo2" src="https://github.com/molleremil/passbox/assets/139823248/0fe932a6-332b-4c27-b545-4442709dc0e5">
      <img width="594" alt="passbox_demo3" src="https://github.com/molleremil/passbox/assets/139823248/add0b072-b6d9-4cfd-be35-6097eb73296b">
-  3. Using the pwnedpasswords API, you can check if your password has been compromised. This method offers a very high level of security, as your password is encrypted with sha1 hash and the API utilizes K-anonymity, meaning only the first 5 characters of your hashed password are transmitted.
+  3. Using the pwnedpasswords API, you can check if your password has been compromised. This method offers a very high level of security, as your password is encrypted with sha1 hash and the API utilizes K-anonymity, meaning only the first 5 characters of your hashed password are transmitted. Demo pictures:
      
      <img width="594" alt="passbox_demo4" src="https://github.com/molleremil/passbox/assets/139823248/4d0d102d-136f-4871-874f-4f311fba69d7">
      
