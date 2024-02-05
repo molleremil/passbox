@@ -2,7 +2,11 @@
 
 <img width="599" alt="passbox_demo1" src="https://github.com/molleremil/passbox/assets/139823248/4c8e04fe-da40-43ab-a616-9d76870cd103">
 
-There are 2 version: `main.py` -> full version with all functionalities and `app.py` -> version without password leak check functionality
+------------------------------------------------------------------------------------------------------------------------------------------
+
+**Note:** There are 2 version: `main.py` -> full version with all functionalities and `app.py` -> version without password leak check functionality.
+
+------------------------------------------------------------------------------------------------------------------------------------------
 
 In the main main.py, change the constant variable to your main/preferred email address, so you don't have to continuesly retype it.
 
